@@ -1,5 +1,4 @@
 # ⚡ Ion Thruster — Lorentz Simulation
-📄 **Research paper:** [Numerical Simulation and Trajectory Analysis of Charged Particle Deflection in Gridded Magnetic Ion Thrusters](./Magnetic_Ion_Thruster_Simulation__Lorentz_Force_Analysis__1_.pdf)
 
 A 2D interactive physics simulation of a gridded ion thruster engine implementing the Lorentz force law in real-time, built in Python using Pygame.
 
